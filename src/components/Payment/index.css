@@ -1,4 +1,6 @@
 .payments-container {
+  width: 100%;
+
   padding: 25px;
   background-color: #fff;
   border-radius: 16px;
@@ -26,8 +28,14 @@
   margin: 0;
   padding-left: 0;
   list-style: none;
+  width: 100%;
   display: flex;
   align-items: center;
+}
+@media screen and (max-width: 567px) {
+  .payment-method-container {
+    flex-wrap: wrap;
+  }
 }
 
 .each-payment-method-container {
@@ -35,6 +43,7 @@
   align-items: center;
   margin-right: 5px;
   cursor: pointer;
+  width: 100%;
 }
 
 .payment-input-method {

@@ -54,6 +54,7 @@ const Payment = close => {
             id={eachMethod.id}
             name="paymentmethod"
             onChange={updatePaymentMethod}
+            disabled={eachMethod.isDisabled}
           />
           <label htmlFor={eachMethod.id} className="payment-method-label">
             {eachMethod.displayText}

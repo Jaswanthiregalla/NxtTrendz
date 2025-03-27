@@ -23,6 +23,7 @@ const CartSummary = () => (
             {`Rs ${totalPrice}/-`}
           </h1>
           <p className="items-count-details">{cartItemsCount} Items in cart</p>
+
           <Popup
             modal
             trigger={

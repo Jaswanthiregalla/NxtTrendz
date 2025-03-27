@@ -36,3 +36,8 @@
   display: flex;
   justify-content: center;
 }
+.payment-details-container {
+  max-width: 90%;
+  border: 1px solid red;
+}
+
