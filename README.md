@@ -6,9 +6,6 @@ In this project, I have developed the frontend part of the **Nxt Trendz** online
 
 ---
 
-
-### Completion Instructions
-
 <details>
 <summary>Features added</summary>
 <br/>
