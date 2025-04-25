@@ -1,11 +1,5 @@
 In this project, I have developed the frontend part of the **Nxt Trendz** online shopping application. 
-### Set Up Instructions
 
-
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
 ## 🌐 Live Demo
 
 [🔗 View Live Project](https://nxt-trendz-git-main-jaswanthi-s-projects.vercel.app)
@@ -16,7 +10,7 @@ In this project, I have developed the frontend part of the **Nxt Trendz** online
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Features added</summary>
 <br/>
 
 The app must have the following functionalities
