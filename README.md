@@ -6,11 +6,7 @@ In this project, I have developed the frontend part of the **Nxt Trendz** online
 
 ---
 
-<details>
-<summary>Features added</summary>
-<br/>
-
-The app must have the following functionalities
+Features implemented:
 
   - Feature 1
     - **User Authentication**
@@ -24,15 +20,15 @@ The app must have the following functionalities
       instantly to match the search keyword.
     - **Sort Feature**: Users can sort the products by price in ascending or descending order. This is controlled through a dropdown menu that 
       updates the product list immediately.
-   - **Filter Options**: Users can filter products based on categories like "Clothing", "Electronics", "Appliances", "Grocery", "Toys" and also 
+     - **Filter Options**: Users can filter products based on categories like "Clothing", "Electronics", "Appliances", "Grocery", "Toys" and also 
       by ratings
 
   - Feature 3
-   - **Cart Management**:
-   - Increasing or decreasing the quantity of items
-   - Removing items from the cart
-   - Viewing the total price and item count
-   - Cart data remains consistent until the user logs out or clears it
+     - **Cart Management**:
+       - Increasing or decreasing the quantity of items
+       - Removing items from the cart
+       - Viewing the total price and item count
+       - Cart data remains consistent until the user logs out or clears it
 
   
 </details>
