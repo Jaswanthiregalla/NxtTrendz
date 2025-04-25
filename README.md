@@ -1,6 +1,6 @@
 In this project, I have developed the frontend part of the **Nxt Trendz** online shopping application. 
 
-## 🌐 Live Demo
+## 🌐 Live Project Link 
 
 [🔗 View Live Project](https://nxt-trendz-git-main-jaswanthi-s-projects.vercel.app)
 
